@@ -1,1 +1,1 @@
-# JM-Random-Quote-Gen-P1.DFSOcohort
+# Joy Manuel's Random Quote Generator Project 1 DFSO cohort
