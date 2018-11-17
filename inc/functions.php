@@ -23,6 +23,11 @@ $quotes = [
         "quote" => "Coding is not that hard, once you know what you are doing",
         "source" => "Joe and Joy",
     ],
+   //Changed made to resubmit Project 1. Added fifth quote (copied above quote and made fifth quote below.
+    [
+        "quote" => "Until next time, maybe I'll see you at the beach",
+        "source" => "Alena Holligan",
+    ],
 
 ];
 //    var_dump($quotes);

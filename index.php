@@ -1,5 +1,6 @@
-<?php include 'inc/functions.php'; ?>
-<?php include 'inc/random_colors.php'; ?>
+//Merged the 2 separate php include tags into 1.
+<?php include 'inc/functions.php';
+    include 'inc/random_colors.php'; ?>
 
 <!DOCTYPE html>
 <html lang="en">
